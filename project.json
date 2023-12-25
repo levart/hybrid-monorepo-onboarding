@@ -20,12 +20,7 @@
           "packages/onboarding/src/assets"
         ],
         "styles": ["packages/onboarding/src/styles.css"],
-        "scripts": [],
-        "server": "packages/onboarding/src/main.server.ts",
-        "prerender": true,
-        "ssr": {
-          "entry": "packages/onboarding/server.ts"
-        }
+        "scripts": []
       },
       "configurations": {
         "production": {
